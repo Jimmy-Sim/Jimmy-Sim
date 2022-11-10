@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jimmy-Sim
 - 👀 I’m interested in competetive programming
-- 🌱 I’m currently learning C++ and algorithms
+- 🌱 I’m currently learning algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
