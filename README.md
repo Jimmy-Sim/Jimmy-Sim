@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Jimmy-Sim
 - 👀 I’m interested in competetive programming
 - 🌱 I’m currently learning algorithms
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Personal Portfolio: https://sites.google.com/view/jimmy-academic/home
 
 <!---
 Jimmy-Sim/Jimmy-Sim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
